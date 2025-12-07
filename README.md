@@ -4,7 +4,7 @@
 # **MUDVATH KUMAR** 
 ### Full Stack Developer | AI Enthusiast | Open Source Contributor
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://v0-portfolio-website-lac-omega.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)]((https://www.mudavath-kumar.me/))
 [![Resume](https://img.shields.io/badge/📄_Resume-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1dDHFeCHhO0TCQE-cjQF_2ipOsre1RLir/view)
 
 </div>
