@@ -28,7 +28,7 @@
       <p align="center">
         <img src="https://skillicons.dev/icons?i=nodejs,flask,express,firebase" alt="backend technologies" />
         <br>
-        <em>Node.js, Express, Flask, Firebase</em>
+        <em>Node.js, Flask, Express, Firebase</em>
       </p>
     </td>
     <td width="33%">
