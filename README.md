@@ -1,138 +1,448 @@
 <div align="center">
- 
-# **MUDAVATH KUMAR**
-### AI-First Full Stack Developer | AI Enthusiast | Open Source Contributor
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.mudavath-kumar.me/)
-[![Resume](https://img.shields.io/badge/📄_Resume-8A2BE2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1dDHFeCHhO0TCQE-cjQF_2ipOsre1RLir/view)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Mudavath_kumar_1)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,25:0f172a,50:1e1b4b,75:4c1d95,100:7c3aed&text=MUDAVATH%20KUMAR&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI-FIRST%20FULL%20STACK%20DEVELOPER&descAlignY=62&descSize=19&animation=fadeIn" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+intelligent+software+systems;Exploring+Agentic+AI+%26+RAG;Engineering+reliable+AI+experiences;Full+Stack+%C3%97+AI+%C3%97+Data" />
+
+<br><br>
+
+<a href="https://www.mudavath-kumar.me">
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-7C3AED?style=for-the-badge&labelColor=020617"/>
+</a>
+<a href="https://linkedin.com/in/mudavath-kumar-mudavath-kumar">
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-2563EB?style=for-the-badge&labelColor=020617"/>
+</a>
+<a href="https://github.com/Mudavath-kumar">
+<img src="https://img.shields.io/badge/⌘%20GITHUB-334155?style=for-the-badge&logo=github&logoColor=white&labelColor=020617"/>
+</a>
+<a href="mailto:kc893825@gmail.com">
+<img src="https://img.shields.io/badge/✉%20EMAIL-E11D48?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Mudavath-kumar&style=for-the-badge&color=7C3AED&label=VISITORS"/>
+
 </div>
 
 ---
-## 🚀 Core Competencies
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=F8FAFC&center=true&vCenter=true&width=800&lines=AI+%C3%97+SOFTWARE+%C3%97+DATA;FROM+IDEA+TO+INTELLIGENT+SYSTEM"/>
+
+<br>
+
+**I build software that doesn't just work — it learns, retrieves, reasons and improves.**
+
+</div>
+
+---
+
+# `01` ◈ IDENTITY
+
 <table>
-  <tr>
-    <td width="33%">
-      <h3 align="center">Frontend</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,redux,typescript" alt="frontend technologies" />
-        <br>
-        <em>HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Tailwind CSS</em>
-      </p>
-    </td>
-    <td width="33%">
-      <h3 align="center">Backend</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,flask,express,firebase,mongodb" alt="backend technologies" />
-        <br>
-        <em>Node.js, Flask, Express, Firebase, MongoDB</em>
-      </p>
-    </td>
-    <td width="33%">
-      <h3 align="center">DevOps & Tools</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=docker,git,github,azure,vercel,aws" alt="devops tools" />
-        <br>
-        <em>Docker, Git, GitHub Actions, Azure, Vercel, AWS</em>
-      </p>
-    </td>
-  </tr>
+<tr>
+
+<td width="58%" valign="top">
+
+## 👋 Hello, I'm Kumar
+
+I'm a **Computer Science & Engineering student** interested in building modern software systems powered by AI.
+
+My work sits at the intersection of:
+
+```text id="r3p2zq"
+Artificial Intelligence
+        +
+Full-Stack Engineering
+        +
+Machine Learning
+        +
+Data & Knowledge Systems
+```
+
+I'm particularly interested in **Generative AI, Retrieval-Augmented Generation, Agentic AI, Multi-Agent Systems, and trustworthy AI**.
+
+</td>
+
+<td width="42%" align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1800&pause=700&color=8B5CF6&center=true&vCenter=true&width=400&height=180&lines=AI+BUILDER;FULL+STACK+ENGINEER;RAG+EXPLORER;AGENTIC+AI+ENTHUSIAST;ML+LEARNER;SYSTEM+THINKER"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING-22C55E?style=flat-square&labelColor=020617"/>
+
+</td>
+
+</tr>
 </table>
 
 ---
-## 🎧 Vibe: Coding Tools & AI Agents
+
+<div align="center">
+
+# `02` ◈ AI LAB
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2400&pause=800&color=C4B5FD&center=true&vCenter=true&width=750&lines=RETRIEVE+%E2%86%92+REASON+%E2%86%92+VERIFY+%E2%86%92+TRUST;BUILDING+MORE+RELIABLE+AI+SYSTEMS"/>
+
+</div>
+
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">⚡ AI-Powered Coding Tools</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/V0.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="V0.dev"/>
-        <img src="https://img.shields.io/badge/Cursor-1E90FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Cursor"/>
-        <img src="https://img.shields.io/badge/Lovable-F25287?style=for-the-badge&logo=heart&logoColor=white" alt="Lovable"/>
-        <img src="https://img.shields.io/badge/Bolt-FFD700?style=for-the-badge&logo=zap&logoColor=black" alt="Bolt"/>
-        <img src="https://img.shields.io/badge/Builder.io-0F172A?style=for-the-badge&logo=builder.io&logoColor=white" alt="Builder.io"/>
-        <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
-        <br>
-        <em>V0.dev · Cursor · Lovable · Bolt · Builder.io · GitHub Copilot</em>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🤖 AI Agents & Automation</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/CrewAI-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="CrewAI"/>
-        <img src="https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
-        <img src="https://img.shields.io/badge/AutoGPT-FF6F61?style=for-the-badge&logo=openai&logoColor=white" alt="AutoGPT"/>
-        <br>
-        <em>CrewAI · LangChain · AutoGPT</em>
-      </p>
-    </td>
-  </tr>
+<tr>
+
+<td align="center" width="25%">
+
+## 🔎
+
+### RAG
+
+Retrieval
+Semantic Search
+Grounding
+
+</td>
+
+<td align="center" width="25%">
+
+## 🤖
+
+### AGENTS
+
+Agentic AI
+Tool Use
+Workflows
+
+</td>
+
+<td align="center" width="25%">
+
+## 🛡️
+
+### TRUST
+
+Verification
+Confidence
+Consensus
+
+</td>
+
+<td align="center" width="25%">
+
+## 🧪
+
+### EVAL
+
+Factuality
+Groundedness
+Reliability
+
+</td>
+
+</tr>
 </table>
 
 ---
-## 📈 GitHub Analytics
+
+# `03` ◈ STACK
+
 <div align="center">
- 
-| **Overview** | **Top Languages** |
-|--------------|-------------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=Mudavath-kumar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="400"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudavath-kumar&layout=compact&theme=tokyonight&hide_border=true" width="400"> |
-</div>
-<div align="center">
- 
-![GitHub Streak](https://streak-stats.demolab.com?user=Mudavath-kumar&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
+### `LANGUAGES`
+
+<img src="https://skillicons.dev/icons?i=js,python,go,html,css"/>
+
+<br><br>
+
+### `FRONTEND`
+
+<img src="https://skillicons.dev/icons?i=react,next,redux"/>
+
+<br><br>
+
+### `BACKEND`
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
+
+<br><br>
+
+### `DATA`
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase"/>
+
+<br><br>
+
+### `CLOUD / DEVOPS`
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,aws,azure"/>
+
+<br><br>
+
+### `AI`
+
+<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Claude_API-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Groq-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-111827?style=for-the-badge"/>
+
 </div>
 
 ---
-## 🏆 Achievements
+
 <div align="center">
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mudavath-kumar&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/Mudavath-kumar)
+
+# `04` ◈ SELECTED BUILDS
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2200&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=RESEARCH+%7C+PRODUCTS+%7C+EXPERIMENTS"/>
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔐 TrustRAG
+
+**Trust-Aware Multi-Agent RAG**
+
+Exploring reliable AI through retrieval, verification, trust scoring and consensus.
+
+<br>
+
+`RAG` `LLM` `Agents`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💳 Mamba Fraud Detection
+
+**Machine Learning**
+
+Exploring Mamba-based approaches for credit-card fraud detection.
+
+<br>
+
+`Python` `Mamba` `ML`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 💰 RevenueRescue AI
+
+**AI × FinTech**
+
+Exploring intelligent payment-failure recovery and decision automation.
+
+<br>
+
+`Agents` `FinTech` `Automation`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🍳 Recipe Platform
+
+**Full-Stack Application**
+
+Recipe-sharing platform built with a modern web stack and REST APIs.
+
+<br>
+
+`React` `Node.js` `MongoDB`
+
+</td>
+
+</tr>
+
+</table>
+
+<div align="center">
+
+<a href="https://github.com/Mudavath-kumar?tab=repositories">
+
+<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=020617"/>
+
+</a>
+
 </div>
 
 ---
-## 🧠 Featured Projects
 
-### 🌱 **Agri-Gyan**
-> AgriTech Visionary Platform with AI-powered insights, soil analysis, and farmer tools  
-> **Tech**: TypeScript, Next.js, AI/ML  
-> [View Repository](https://github.com/Mudavath-kumar/agri-gyan-)
-
-### 🧠 **Viktor-RAG**
-> Advanced RAG-based AI application for intelligent information retrieval  
-> **Tech**: TypeScript, AI/LLM stack  
-> [View Repository](https://github.com/Mudavath-kumar/Viktor-RAG)
-
-### 🔍 **Mini Project - Mamba Credit Card Fraud Detection**
-> Mamba State Space Model for real-time fraud detection  
-> **Tech**: Python, Mamba, Machine Learning  
-> [View Repository](https://github.com/Mudavath-kumar/Mini-Project--3-2)
-
-### ⚡ **Intelion Landing Portal**
-> Modern responsive landing page with sleek design  
-> **Tech**: TypeScript, Next.js  
-> [View Repository](https://github.com/Mudavath-kumar/intelion-landing-portal)
-
-### 🍳 **Recipe Adding Platform**
-> Full-stack recipe sharing platform with modular architecture and RESTful APIs  
-> **Tech**: TypeScript, Next.js, Backend APIs  
-> [View Repository](https://github.com/Mudavath-kumar/recipe-adding-platform-01)
-
----
-## ✨ Developer Principles
-> "The most effective way to build robust systems is through **iterative refinement** —  
-> solving complex problems by breaking them down into manageable components,  
-> validating each solution, and continuously integrating feedback."
-
----
-## 🌐 Connect With Me
 <div align="center">
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mudavath-kumar-mudavath-kumar)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mudavath-kumar)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Mudavath-kumar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kc893825@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Zero_cool_07)
+
+# `05` ◈ MILESTONES
+
 </div>
-<div align="center" style="margin-top: 20px;">
- 
-![Visitor Count](https://komarev.com/ghpvc/?username=Mudavath-kumar&color=blueviolet&style=flat)
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🥇
+
+**TOP 5**
+
+React Hyderabad
+Buildathon 2026
+
+</td>
+
+<td align="center" width="25%">
+
+### 🏗️
+
+**BUILDER**
+
+NxtWave
+State-Level Buildathon
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**ML**
+
+Amazon ML
+Summer School Test
+
+</td>
+
+<td align="center" width="25%">
+
+### 💻
+
+**150+**
+
+DSA Problems
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# `06` ◈ GITHUB PULSE
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mudavath-kumar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Kumar's%20GitHub%20Stats" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudavath-kumar&layout=compact&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages" width="49%"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Mudavath-kumar&theme=tokyonight&hide_border=true&background=020617&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD"/>
+
+</div>
+
+---
+
+# `07` ◈ CONTRIBUTION MATRIX
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# `08` ◈ CURRENTLY EXPLORING
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=TRUSTWORTHY+AI;AGENTIC+RAG;MULTI-AGENT+SYSTEMS;KNOWLEDGE+RETRIEVAL;AI+EVALUATION;PRODUCTION+AI"/>
+
+<br><br>
+
+<table>
+<tr>
+
+<td align="center">🛡️<br><b>Trustworthy AI</b></td>
+<td>→</td>
+<td align="center">🤖<br><b>Agentic RAG</b></td>
+<td>→</td>
+<td align="center">🧠<br><b>Multi-Agent</b></td>
+<td>→</td>
+<td align="center">🔎<br><b>Retrieval</b></td>
+<td>→</td>
+<td align="center">🧪<br><b>Evaluation</b></td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+# `09` ◈ ENGINEERING MINDSET
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1100&color=C4B5FD&center=true&vCenter=true&width=700&lines=BUILD+%E2%86%92+VALIDATE+%E2%86%92+MEASURE+%E2%86%92+IMPROVE"/>
+
+<br><br>
+
+> **Curiosity creates the idea. Engineering makes it real.**
+
+</div>
+
+---
+
+<div align="center">
+
+# `10` ◈ CONNECT
+
+<br>
+
+<a href="https://www.mudavath-kumar.me">
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-7C3AED?style=for-the-badge&labelColor=020617"/>
+</a>
+
+<a href="https://linkedin.com/in/mudavath-kumar-mudavath-kumar">
+<img src="https://img.shields.io/badge/💼_LINKEDIN-2563EB?style=for-the-badge&labelColor=020617"/>
+</a>
+
+<a href="https://github.com/Mudavath-kumar">
+<img src="https://img.shields.io/badge/⌘_GITHUB-475569?style=for-the-badge&labelColor=020617"/>
+</a>
+
+<a href="mailto:kc893825@gmail.com">
+<img src="https://img.shields.io/badge/✉_EMAIL-E11D48?style=for-the-badge&labelColor=020617"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=1000&color=64748B&center=true&vCenter=true&width=600&lines=OPEN+TO+BUILDING+%E2%80%A2+LEARNING+%E2%80%A2+COLLABORATING"/>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:7C3AED,35:4C1D95,70:1E1B4B,100:020617" width="100%"/>
+
+<div align="center">
+
+`© 2026 · Mudavath Kumar`
+
 </div>
