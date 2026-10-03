@@ -1,29 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,25:0f172a,50:1e1b4b,75:4c1d95,100:7c3aed&text=MUDAVATH%20KUMAR&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI-FIRST%20FULL%20STACK%20DEVELOPER&descAlignY=62&descSize=19&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,25:111827,50:312E81,75:6D28D9,100:8B5CF6&text=MUDAVATH%20KUMAR&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI-FIRST%20FULL%20STACK%20DEVELOPER&descAlignY=62&descSize=19&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+intelligent+software+systems;Exploring+Agentic+AI+%26+RAG;Engineering+reliable+AI+experiences;Full+Stack+%C3%97+AI+%C3%97+Data" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=850&lines=AI+%C3%97+FULL+STACK+%C3%97+SYSTEMS;Building+intelligent+software+systems;Exploring+Agentic+AI+%26+RAG;Engineering+reliable+AI+experiences" />
 
 <br><br>
 
 <a href="https://www.mudavath-kumar.me">
 <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-7C3AED?style=for-the-badge&labelColor=020617"/>
 </a>
-<a href="https://linkedin.com/in/mudavath-kumar-mudavath-kumar">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-2563EB?style=for-the-badge&labelColor=020617"/>
-</a>
+&nbsp;
 <a href="https://github.com/Mudavath-kumar">
-<img src="https://img.shields.io/badge/⌘%20GITHUB-334155?style=for-the-badge&logo=github&logoColor=white&labelColor=020617"/>
+<img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+&nbsp;
+<a href="https://linkedin.com/in/mudavath-kumar-mudavath-kumar">
+<img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
 <a href="mailto:kc893825@gmail.com">
-<img src="https://img.shields.io/badge/✉%20EMAIL-E11D48?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617"/>
+<img src="https://img.shields.io/badge/EMAIL-E11D48?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Mudavath-kumar&style=for-the-badge&color=7C3AED&label=VISITORS"/>
+<img src="https://komarev.com/ghpvc/?username=Mudavath-kumar&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -31,53 +34,37 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=F8FAFC&center=true&vCenter=true&width=800&lines=AI+%C3%97+SOFTWARE+%C3%97+DATA;FROM+IDEA+TO+INTELLIGENT+SYSTEM"/>
-
-<br>
-
-**I build software that doesn't just work — it learns, retrieves, reasons and improves.**
+## `01` ◈ ABOUT ME
 
 </div>
 
----
-
-# `01` ◈ IDENTITY
-
 <table>
 <tr>
+<td width="65%" valign="top">
 
-<td width="58%" valign="top">
+### 👋 Hey, I'm Kumar
 
-## 👋 Hello, I'm Kumar
-
-I'm a **Computer Science & Engineering student** interested in building modern software systems powered by AI.
+I'm a **Computer Science & Engineering student** focused on building modern full-stack applications and intelligent AI systems.
 
 My work sits at the intersection of:
 
-```text id="r3p2zq"
-Artificial Intelligence
-        +
-Full-Stack Engineering
-        +
-Machine Learning
-        +
-Data & Knowledge Systems
-```
+**AI · Full Stack Development · Machine Learning · Retrieval · Intelligent Systems**
 
-I'm particularly interested in **Generative AI, Retrieval-Augmented Generation, Agentic AI, Multi-Agent Systems, and trustworthy AI**.
+I'm especially interested in **Generative AI, RAG, Agentic AI, Multi-Agent Systems, AI evaluation, and trustworthy AI**.
+
+I like turning ideas into complete systems — from **architecture and implementation to experimentation and evaluation**.
 
 </td>
 
-<td width="42%" align="center">
+<td width="35%" align="center" valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1800&pause=700&color=8B5CF6&center=true&vCenter=true&width=400&height=180&lines=AI+BUILDER;FULL+STACK+ENGINEER;RAG+EXPLORER;AGENTIC+AI+ENTHUSIAST;ML+LEARNER;SYSTEM+THINKER"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1800&pause=700&color=A78BFA&center=true&vCenter=true&width=330&height=150&lines=AI+BUILDER;FULL+STACK+ENGINEER;RAG+EXPLORER;AGENTIC+AI;ML+LEARNER;SYSTEM+THINKER"/>
 
 <br>
 
 <img src="https://img.shields.io/badge/STATUS-BUILDING-22C55E?style=flat-square&labelColor=020617"/>
 
 </td>
-
 </tr>
 </table>
 
@@ -85,44 +72,44 @@ I'm particularly interested in **Generative AI, Retrieval-Augmented Generation, 
 
 <div align="center">
 
-# `02` ◈ AI LAB
+## `02` ◈ AI FOCUS
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2400&pause=800&color=C4B5FD&center=true&vCenter=true&width=750&lines=RETRIEVE+%E2%86%92+REASON+%E2%86%92+VERIFY+%E2%86%92+TRUST;BUILDING+MORE+RELIABLE+AI+SYSTEMS"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2200&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=RETRIEVE+%E2%86%92+REASON+%E2%86%92+VERIFY+%E2%86%92+IMPROVE"/>
 
-</div>
+<br><br>
 
 <table>
 <tr>
 
 <td align="center" width="25%">
 
-## 🔎
+### 🔎
 
-### RAG
+**RAG**
 
 Retrieval
-Semantic Search
 Grounding
+Semantic Search
 
 </td>
 
 <td align="center" width="25%">
 
-## 🤖
+### 🤖
 
-### AGENTS
+**AGENTS**
 
 Agentic AI
 Tool Use
-Workflows
+Automation
 
 </td>
 
 <td align="center" width="25%">
 
-## 🛡️
+### 🛡️
 
-### TRUST
+**TRUST**
 
 Verification
 Confidence
@@ -132,9 +119,9 @@ Consensus
 
 <td align="center" width="25%">
 
-## 🧪
+### 🧪
 
-### EVAL
+**EVALUATION**
 
 Factuality
 Groundedness
@@ -145,72 +132,189 @@ Reliability
 </tr>
 </table>
 
----
-
-# `03` ◈ STACK
-
-<div align="center">
-
-### `LANGUAGES`
-
-<img src="https://skillicons.dev/icons?i=js,python,go,html,css"/>
-
-<br><br>
-
-### `FRONTEND`
-
-<img src="https://skillicons.dev/icons?i=react,next,redux"/>
-
-<br><br>
-
-### `BACKEND`
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
-
-<br><br>
-
-### `DATA`
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase"/>
-
-<br><br>
-
-### `CLOUD / DEVOPS`
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,aws,azure"/>
-
-<br><br>
-
-### `AI`
-
-<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Claude_API-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Groq-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic_AI-111827?style=for-the-badge"/>
-
 </div>
 
 ---
 
 <div align="center">
 
-# `04` ◈ SELECTED BUILDS
+## `03` ◈ ENGINEERING STACK
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2200&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=RESEARCH+%7C+PRODUCTS+%7C+EXPERIMENTS"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2400&pause=800&color=94A3B8&center=true&vCenter=true&width=700&lines=TOOLS+%26+TECHNOLOGIES+I+BUILD+WITH"/>
+
+<br><br>
 
 </div>
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
+
+### ⚡ FRONTEND
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,next,redux&perline=6"/>
+
+<br><br>
+
+`HTML5` · `CSS3` · `JavaScript`
+
+`React` · `Next.js` · `Redux`
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+### ⚙️ BACKEND
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,go&perline=5"/>
+
+<br><br>
+
+`Node.js` · `Express`
+
+`Python` · `Flask` · `Go`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+### 🗄️ DATABASE & DATA
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase&perline=3"/>
+
+<br><br>
+
+`MongoDB` · `PostgreSQL` · `Supabase`
+
+<br>
+
+`REST APIs` · `Data Modeling` · `Retrieval`
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+### ☁️ CLOUD & DEVOPS
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,aws,azure&perline=6"/>
+
+<br><br>
+
+`Git` · `GitHub` · `Docker`
+
+`Vercel` · `AWS` · `Azure`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+### 🤖 AI / MACHINE LEARNING
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python&perline=1"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Agentic_AI-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Multi--Agent-581C87?style=flat-square"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/LangChain-4C1D95?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLM_APIs-4338CA?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI_Evaluation-3730A3?style=flat-square"/>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+### 🧰 ENGINEERING
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=vscode,postman&perline=2"/>
+
+<br><br>
+
+`REST APIs` · `WebSockets`
+
+`System Design` · `Version Control`
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<div align="center">
+
+### 🧠 AI TOOLS & DEVELOPMENT
+
+<br>
+
+<img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Llama-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CrewAI-7C3AED?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Cursor-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub_Copilot-111827?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+<img src="https://img.shields.io/badge/v0-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lovable-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bolt-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Builder.io-111827?style=for-the-badge"/>
+
+<br><br>
+
+`Prompt Engineering` · `Embeddings` · `Vector Search` · `AI Agents` · `RAG`
+
+</div>
+
+---
+
+<div align="center">
+
+## `04` ◈ SELECTED BUILDS
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2200&pause=900&color=94A3B8&center=true&vCenter=true&width=650&lines=RESEARCH+%7C+EXPERIMENTS+%7C+PRODUCTS"/>
+
+</div>
+
+<table>
+
+<tr>
+
+<td width="50%" align="center" valign="top">
 
 ### 🔐 TrustRAG
 
 **Trust-Aware Multi-Agent RAG**
 
-Exploring reliable AI through retrieval, verification, trust scoring and consensus.
+Exploring reliable retrieval, verification, consensus and self-correction.
 
 <br>
 
@@ -218,13 +322,13 @@ Exploring reliable AI through retrieval, verification, trust scoring and consens
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 💳 Mamba Fraud Detection
 
 **Machine Learning**
 
-Exploring Mamba-based approaches for credit-card fraud detection.
+Exploring Mamba-based approaches for fraud detection.
 
 <br>
 
@@ -236,27 +340,27 @@ Exploring Mamba-based approaches for credit-card fraud detection.
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 💰 RevenueRescue AI
 
 **AI × FinTech**
 
-Exploring intelligent payment-failure recovery and decision automation.
+Exploring intelligent payment-failure recovery and automation.
 
 <br>
 
-`Agents` `FinTech` `Automation`
+`AI` `Agents` `FinTech`
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 🍳 Recipe Platform
 
 **Full-Stack Application**
 
-Recipe-sharing platform built with a modern web stack and REST APIs.
+Recipe-sharing platform built around a modern web stack.
 
 <br>
 
@@ -270,9 +374,11 @@ Recipe-sharing platform built with a modern web stack and REST APIs.
 
 <div align="center">
 
+<br>
+
 <a href="https://github.com/Mudavath-kumar?tab=repositories">
 
-<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=020617"/>
+<img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=020617"/>
 
 </a>
 
@@ -282,11 +388,12 @@ Recipe-sharing platform built with a modern web stack and REST APIs.
 
 <div align="center">
 
-# `05` ◈ MILESTONES
+## `05` ◈ MILESTONES
 
 </div>
 
 <table>
+
 <tr>
 
 <td align="center" width="25%">
@@ -333,13 +440,14 @@ DSA Problems
 </td>
 
 </tr>
+
 </table>
 
 ---
 
 <div align="center">
 
-# `06` ◈ GITHUB PULSE
+## `06` ◈ GITHUB PULSE
 
 <br>
 
@@ -355,9 +463,11 @@ DSA Problems
 
 ---
 
-# `07` ◈ CONTRIBUTION MATRIX
-
 <div align="center">
+
+## `07` ◈ CONTRIBUTION FLOW
+
+<br>
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
@@ -367,9 +477,11 @@ DSA Problems
 
 <div align="center">
 
-# `08` ◈ CURRENTLY EXPLORING
+## `08` ◈ CURRENTLY EXPLORING
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=TRUSTWORTHY+AI;AGENTIC+RAG;MULTI-AGENT+SYSTEMS;KNOWLEDGE+RETRIEVAL;AI+EVALUATION;PRODUCTION+AI"/>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2200&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=TRUSTWORTHY+AI;AGENTIC+RAG;MULTI-AGENT+SYSTEMS;KNOWLEDGE+RETRIEVAL;AI+EVALUATION;PRODUCTION+AI"/>
 
 <br><br>
 
@@ -395,11 +507,11 @@ DSA Problems
 
 <div align="center">
 
-# `09` ◈ ENGINEERING MINDSET
+## `09` ◈ ENGINEERING MINDSET
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1100&color=C4B5FD&center=true&vCenter=true&width=700&lines=BUILD+%E2%86%92+VALIDATE+%E2%86%92+MEASURE+%E2%86%92+IMPROVE"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=1000&color=C4B5FD&center=true&vCenter=true&width=750&lines=BUILD+%E2%86%92+VALIDATE+%E2%86%92+MEASURE+%E2%86%92+IMPROVE"/>
 
 <br><br>
 
@@ -411,7 +523,7 @@ DSA Problems
 
 <div align="center">
 
-# `10` ◈ CONNECT
+## `10` ◈ LET'S CONNECT
 
 <br>
 
@@ -428,18 +540,22 @@ DSA Problems
 </a>
 
 <a href="mailto:kc893825@gmail.com">
-<img src="https://img.shields.io/badge/✉_EMAIL-E11D48?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/✉_EMAIL-E11D48?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=1000&color=64748B&center=true&vCenter=true&width=600&lines=OPEN+TO+BUILDING+%E2%80%A2+LEARNING+%E2%80%A2+COLLABORATING"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2600&pause=1000&color=64748B&center=true&vCenter=true&width=650&lines=BUILDING+%E2%80%A2+LEARNING+%E2%80%A2+EXPERIMENTING+%E2%80%A2+COLLABORATING"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Mudavath-kumar&style=flat-square&color=7C3AED&label=PROFILE+VIEWS"/>
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:7C3AED,35:4C1D95,70:1E1B4B,100:020617" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:8B5CF6,35:6D28D9,70:312E81,100:020617" width="100%"/>
 
 <div align="center">
 
